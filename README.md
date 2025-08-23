@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I use this space to document my learning journey
 
 ## 🚀 Featured Projects  
 
-📒 [Assignment Tracker (Canva + Vibe Coding)](https://github.com/kat252249/assignment-and-deadline-tracker)  
+📒 [Assignment Tracker (Canva + Vibe Coding)](https://github.com/KatG252249/assignment-and-deadlines-tracker) 
 A landing page assignment tracker designed in Canva with AI-assisted coding.  
 ![Tracker Preview](https://raw.githubusercontent.com/kat252249/assignment-and-deadline-tracker/main/screenshots/screenshot1.png)  
 
