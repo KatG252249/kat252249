@@ -15,12 +15,6 @@ Welcome to my GitHub portfolio! I use this space to document my learning journey
 A landing page assignment tracker designed in Canva with AI-assisted coding.  
 ![Tracker Preview](https://github.com/KatG252249/assignment-and-deadlines-tracker/tree/main/screenshots)
 
-💻 [C & C++ Practice Programs](#)  
-Basic programs covering arrays, sorting, file handling, and search algorithms.  
-
-📊 [Cisco Data Analytics Exercises](#)  
-Practice notebooks and exercises from the Cisco Data Analytics course.  
-
 ---
 
 ## 🛠️ Skills & Tools  
