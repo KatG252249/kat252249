@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I use this space to document my learning journey
 
 📒 [Assignment Tracker (Canva + Vibe Coding)](https://github.com/KatG252249/assignment-and-deadlines-tracker) 
 A landing page assignment tracker designed in Canva with AI-assisted coding.  
-![Tracker Preview](https://raw.githubusercontent.com/kat252249/assignment-and-deadline-tracker/main/screenshots/screenshot1.png)  
+![Tracker Preview](https://github.com/KatG252249/assignment-and-deadlines-tracker/tree/main/screenshots)
 
 💻 [C & C++ Practice Programs](#)  
 Basic programs covering arrays, sorting, file handling, and search algorithms.  
