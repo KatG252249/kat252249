@@ -1,1 +1,60 @@
 # kat252249
+# 👋 Hi, I'm Katherine Gozum  
+
+🎓 Pioneer BS Information Technology student (PUP Open University System)  
+📊 Aspiring Data Analyst | 💻 Future Software/QA Tester  
+✨ Exploring tech, AI-assisted design, and digital products  
+
+Welcome to my GitHub portfolio! I use this space to document my learning journey, showcase projects, and combine both coding and creative design tools.  
+
+---
+
+## 🚀 Featured Projects  
+
+📒 [Assignment Tracker (Canva + Vibe Coding)](https://github.com/kat252249/assignment-and-deadline-tracker)  
+A landing page assignment tracker designed in Canva with AI-assisted coding.  
+![Tracker Preview](https://raw.githubusercontent.com/kat252249/assignment-and-deadline-tracker/main/screenshots/screenshot1.png)  
+
+💻 [C & C++ Practice Programs](#)  
+Basic programs covering arrays, sorting, file handling, and search algorithms.  
+
+📊 [Cisco Data Analytics Exercises](#)  
+Practice notebooks and exercises from the Cisco Data Analytics course.  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Languages & Tech**  
+- C, C++ (beginner, learning)  
+- SQL (learning), Python (learning)  
+- File Handling, Arrays, Sorting  
+
+**Tools & Platforms**  
+- Git & GitHub  
+- Canva (for digital product design)  
+- Visual Studio Code, Dev C++ (exploring)  
+- Excel & Google Sheets  
+
+**Focus Areas**  
+- Data Analytics & Visualization  
+- QA / Software Testing  
+- Digital Product Design  
+
+---
+
+## 🌱 Current Learning Journey  
+- 📘 Completing **Cisco Data Analytics** course  
+- 🖥️ Practicing **C & C++ coding projects**  
+- 🤖 Exploring **AI-assisted workflows (Vibe Coding + Canva)**  
+- 🎯 Building portfolio projects to showcase  
+
+---
+
+## 📫 Connect with Me  
+- 💼 LinkedIn: [https://www.linkedin.com/in/katherine-gozum/]  
+- 📧 Email: gozumk@gmail.com  
+
+---
+
+⭐ *Always learning, building, and exploring ways to blend design, coding, and AI into useful projects.*
