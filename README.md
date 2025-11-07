@@ -1,4 +1,4 @@
-# kat252249
+2# kat252249
 # 👋 Hi, I'm Katherine Gozum  
 
 🎓 Pioneer BS Information Technology student (PUP Open University System)  
@@ -40,7 +40,7 @@ A landing page assignment tracker designed in Canva with AI-assisted coding.
 ## 🌱 Current Learning Journey  
 - 📘 Completing **Cisco Data Analytics** course  
 - 🖥️ Practicing **C & C++ coding projects**
-- Completing ICS2 Basic CC and Try Hack Me 
+- Completing ICS2 Basic CC and Try Hack Me Cybersecurity 101
 - 🤖 Exploring **AI-assisted workflows (Vibe Coding + Canva)**  
 - 🎯 Building portfolio projects to showcase  
 
