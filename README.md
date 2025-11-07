@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Katherine Gozum  
 
 🎓 Pioneer BS Information Technology student (PUP Open University System)  
-📊 Aspiring Data Analyst | 💻 Future Software/QA Tester  
+📊 Aspiring Data Analyst | 💻 Future Cybersecurity Professional  
 ✨ Exploring tech, AI-assisted design, and digital products  
 
 Welcome to my GitHub portfolio! I use this space to document my learning journey, showcase projects, and combine both coding and creative design tools.  
@@ -39,7 +39,8 @@ A landing page assignment tracker designed in Canva with AI-assisted coding.
 
 ## 🌱 Current Learning Journey  
 - 📘 Completing **Cisco Data Analytics** course  
-- 🖥️ Practicing **C & C++ coding projects**  
+- 🖥️ Practicing **C & C++ coding projects**
+- Completing ICS2 Basic CC and Try Hack Me 
 - 🤖 Exploring **AI-assisted workflows (Vibe Coding + Canva)**  
 - 🎯 Building portfolio projects to showcase  
 
