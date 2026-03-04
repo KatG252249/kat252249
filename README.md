@@ -33,7 +33,8 @@ A landing page assignment tracker designed in Canva with AI-assisted coding.
 **Focus Areas**  
 - Data Analytics & Visualization  
 - QA / Software Testing  
-- Digital Product Design  
+- Digital Product Design
+- Cybersecurity
 
 ---
 
@@ -42,7 +43,11 @@ A landing page assignment tracker designed in Canva with AI-assisted coding.
 - 🖥️ Practicing **C & C++ coding projects**
 - Completing ICS2 Basic CC and Try Hack Me Cybersecurity 101
 - 🤖 Exploring **AI-assisted workflows (Vibe Coding + Canva)**  
-- 🎯 Building portfolio projects to showcase  
+- 🎯 Building portfolio projects to showcase
+
+✍️** Technical Writing & Insights**
+
+[Principle of Least Privilege (PoLP) in the Classroom](https://www.linkedin.com/pulse/principle-least-privilege-classroom-context-katherine-gozum-bfnnf/?trackingId=P11XA3kJRlq3cpGaYx2gMA%3D%3D): A deep dive into applying defensive security frameworks to everyday environments.
 
 ---
 
