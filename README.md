@@ -47,8 +47,7 @@ A landing page assignment tracker designed in Canva with AI-assisted coding.
 ---
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn: [https://www.linkedin.com/in/katherine-gozum/]  
-- 📧 Email: gozumk@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/katherine-gozum/]   
 
 ---
 
